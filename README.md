@@ -18,19 +18,11 @@ Siga os passos abaixo para executar o projeto localmente:
 # Clone o repositório
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-# Acesse a pasta do projeto
-cd nome-do-projeto
-
 # Instale as dependências
 npm install
 
 # Execute o servidor de desenvolvimento
 ng serve
-
-Depois disso, abra o navegador e acesse:
-http://localhost:4200/
-
-A aplicação será carregada automaticamente e atualizada sempre que você modificar o código.
 
 📚 Aprendizados
 
@@ -41,3 +33,9 @@ Data Binding
 Organização de arquivos
 Uso do Angular CLI
 Criação de interfaces web dinâmicas
+
+<img width="1920" height="488" alt="image" src="https://github.com/user-attachments/assets/7c435395-7c7f-4041-a0a0-e73afa3328ae" />
+
+<img width="1920" height="733" alt="image" src="https://github.com/user-attachments/assets/b7063431-7c72-4724-9c5c-b50426785ae0" />
+
+
