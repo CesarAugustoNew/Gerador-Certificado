@@ -2,7 +2,11 @@
 
 Projeto desenvolvido durante o curso introdutório de Angular da Rocketseat, com o objetivo de praticar conceitos fundamentais do framework e construção de aplicações web modernas.
 
-🚀 Tecnologias utilizadas
+<img width="1920" height="488" alt="image" src="https://github.com/user-attachments/assets/7c435395-7c7f-4041-a0a0-e73afa3328ae" />
+<br><br>
+<img width="1920" height="733" alt="image" src="https://github.com/user-attachments/assets/b7063431-7c72-4724-9c5c-b50426785ae0" />
+
+## 🚀 Tecnologias utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -24,7 +28,7 @@ npm install
 # Execute o servidor de desenvolvimento
 ng serve
 
-📚 Aprendizados
+## 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 
@@ -34,8 +38,6 @@ Organização de arquivos
 Uso do Angular CLI
 Criação de interfaces web dinâmicas
 
-<img width="1920" height="488" alt="image" src="https://github.com/user-attachments/assets/7c435395-7c7f-4041-a0a0-e73afa3328ae" />
 
-<img width="1920" height="733" alt="image" src="https://github.com/user-attachments/assets/b7063431-7c72-4724-9c5c-b50426785ae0" />
 
 
